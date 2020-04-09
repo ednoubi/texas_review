@@ -1,1 +1,3 @@
-# texas_review
+# maven-project
+
+Simple Maven Project
